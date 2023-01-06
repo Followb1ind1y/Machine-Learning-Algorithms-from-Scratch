@@ -11,4 +11,4 @@
 </p>
 
 # **Machine Learning Algorithms**
-* [Linear Regression](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/ML_Algorithms_Linear_Regression.ipynb)
+* [Linear Regression](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Linear_Regression.ipynb)
