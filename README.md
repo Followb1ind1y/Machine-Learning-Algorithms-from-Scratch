@@ -12,3 +12,4 @@
 
 # **Machine Learning Algorithms**
 * [Linear Regression](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Linear_Regression.ipynb)
+* [Logistic Regression](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Logistic_Regression.ipynb)
