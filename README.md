@@ -13,3 +13,10 @@
 # **Machine Learning Algorithms**
 * [Linear Regression](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Linear_Regression.ipynb)
 * [Logistic Regression](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Logistic_Regression.ipynb)
+* Principal Component Analysis
+* Support Vector Machine
+* K-Nearest Neighbour
+* K-Means Clustering
+* Decision Tree
+* Random Forest and Bagging
+* Boosting
