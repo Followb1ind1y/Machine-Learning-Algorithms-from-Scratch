@@ -14,7 +14,7 @@
 * [Linear Regression](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Linear_Regression.ipynb)
 * [Logistic Regression](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Logistic_Regression.ipynb)
 * [Principal Component Analysis](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Principal_Component_Analysis.ipynb)
-* Support Vector Machine
+* [Support Vector Machine](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Support_Vector_Machine.ipynb)
 * K-Nearest Neighbour
 * K-Means Clustering
 * Decision Tree
