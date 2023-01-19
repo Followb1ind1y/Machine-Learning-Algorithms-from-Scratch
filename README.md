@@ -18,5 +18,5 @@
 * [K-Nearest Neighbour](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_K_Nearest_Neighbour.ipynb)
 * [K-Means Clustering](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_K_Means_Clustering.ipynb)
 * [Decision Tree](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Decision_Tree.ipynb)
-* Random Forest and Bagging
+* [Random Forest](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Random_Forest.ipynb)
 * Boosting
