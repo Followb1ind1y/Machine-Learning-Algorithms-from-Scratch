@@ -12,7 +12,7 @@
 
 # **Machine Learning Algorithms**
 <table>
-<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><th>Machine Learning </th>
 <tr><td>
 
 |Title | Link|
@@ -27,8 +27,3 @@
 | [Decision Tree](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Decision_Tree.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Decision_Tree.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 | [Random Forest](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Random_Forest.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Random_Forest.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 | [Boosting](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Boosting.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Boosting.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
-
-</td><td>
-
-|Title | Link|
-|--|--|
