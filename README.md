@@ -12,7 +12,7 @@
 
 # **Machine Learning Algorithms**
 <table>
-<tr><th>Machine Learning </th>
+<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
 <tr><td>
 
 |Title | Link|
@@ -21,9 +21,14 @@
 | [Logistic Regression](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Logistic_Regression.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Logistic_Regression.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 | [Principal Component Analysis](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Principal_Component_Analysis.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Principal_Component_Analysis.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 | [Support Vector Machine](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Support_Vector_Machine.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Support_Vector_Machine.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
-| [Naive Bayes]() | |
+| [Naive Bayes](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Naive_Bayes.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Naive_Bayes.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 | [K-Nearest Neighbour](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_K_Nearest_Neighbour.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_K_Nearest_Neighbour.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 | [K-Means Clustering](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_K_Means_Clustering.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_K_Means_Clustering.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 | [Decision Tree](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Decision_Tree.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Decision_Tree.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 | [Random Forest](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Random_Forest.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Random_Forest.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 | [Boosting](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Boosting.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Boosting.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
+
+</td><td>
+
+|Title | Link|
+|--|--|
