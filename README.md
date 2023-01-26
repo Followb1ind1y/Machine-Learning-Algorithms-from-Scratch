@@ -12,6 +12,12 @@
 
 # **Machine Learning Algorithms from Scratch**
 
+## **About**
+
+Classic Machine Learning Algorithms from scratch vs sklearn using Python. Also include some explanation and study notes.
+
+## **Table of Contents**
+
 <table>
 <tr><th>Machine Learning </th>
 <tr><td>
@@ -28,3 +34,8 @@
 | [Decision Tree](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Decision_Tree.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Decision_Tree.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 | [Random Forest](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Random_Forest.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Random_Forest.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 | [Boosting](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Boosting.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Boosting.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
+</table>
+
+## **Licence**
+
+This repository is licensed under the MIT License - see the [LICENSE](https://github.com/Followb1ind1y/Machine_Learning_Algorithms/LICENSE) file for details.
