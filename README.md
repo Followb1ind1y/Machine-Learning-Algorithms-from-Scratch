@@ -10,7 +10,7 @@
 <a href="https://colab.research.google.com/github/Followb1ind1y/Machine_Learning_Algorithms/blob/main/ML_Algorithms_Boosting.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a>       
 </p>
 
-# **Machine Learning Algorithms**
+# **Machine Learning Algorithms from Scratch**
 
 <table>
 <tr><th>Machine Learning </th>
